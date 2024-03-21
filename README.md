@@ -2,10 +2,10 @@
 simple python control algorithm playground with casadi and pinocchio and visualization with meshcat
 
 ## get started (in a terminal, NOT in vscode)
-1. Create a python 3.10 conda environment and then activate it
+1. Create a python 3.9 conda environment and then activate it
 ```shell
-conda create -n py310 python=3.10
-conda activate py310
+conda create -n py39 python=3.9.18
+conda activate py39
 ```
 2. install acados and requirements 
 ```shell
