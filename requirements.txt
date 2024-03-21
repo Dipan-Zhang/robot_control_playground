@@ -1,0 +1,9 @@
+pin
+example-robot-data-jnrh2023 
+jupyterlab 
+meshcat 
+scipy 
+ipywidgets 
+matplotlib
+numpy
+click=8.0.0
